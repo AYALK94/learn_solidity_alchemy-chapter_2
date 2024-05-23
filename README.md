@@ -2,7 +2,7 @@
 Alchemy University course "Learn Solidity". chapter 2
 
 Chapter 2
-Sending Ether
-Reverting Transactions
-Calldata
-Code an Escrow contract
+1,Sending Ether
+2,Reverting Transactions
+3,Calldata
+4,Code an Escrow contract
